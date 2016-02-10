@@ -25,6 +25,7 @@ apt-get install \
 	php5-pgsql=5.5.9+dfsg-1ubuntu4.14	\
 	php5-redis=2.2.4-1build2		\
 	php5-xhprof=0.9.4-1build1		\
+	php5-xdebug				\
 	-y
 
 
